@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MZK Online Shop</title>
+<!-- add icon link -->
+        <link rel = "icon" href = 
+"https://seeklogo.com/images/S/skull-gang-logo-2A6099488B-seeklogo.com.png" 
+        type = "image/x-icon">
+</head>
+<font color="#FFA500" size-"5">
+<marquee><b><i><u> <p>Congratulations!! You have earned a free shipping voucher, CLICK <a href="https://www.amazon.com/punching-bag/s?k=punching+bag">HERE</a><i/><u/><b/></p></marquee>
+<font face="TAHOMA" size="5">
+</font>
+
+
+
+<hr style="height:5px;border-width:7;color:gray;background-color:orange">
+
+<body background="C:\Users\user\Downloads\abstract-light-blue-black-space-frame-layout-design-tech-triangle-concept-gray-texture-background-eps10-vector.jpg">
+  
+<h1 id="header" class="main-header" style="color:WHITE;"><center>MZK's Products</center></h1>
+  
+ <center><img src="C:\Users\user\Downloads\download.jpg" alt="Online Shopping" width="300" height="200"></center>
+  
+ <center><a href="https://www.youtube.com/watch?v=w3tTh8fgT28" target="_blank" rel="noopener noreferrer" style="color: white;">Click this before you start <3</a></center>
+
+<hr style="height:5px;border-width:7;color:gray;background-color:orange">
+
+<p><center>Marvin, Zynee, and Kassim, from where the shop's name derives, are the people in charge of running this internet store. They enjoy purchasing goods to resell at a discount. They promise that the products are as good as new even though they have all already used them.</center></p>
+
+<p><center>This site is special in that the more time, money, and scrolling you spend here, the more opportunities you'll have to gain points that you may use to buy other things. We believe our deals will make you pleased and satisfied!</center></p>
+
+  <center><input type="text" id="username" name="username" placeholder="Enter your referral code" required autocomplete="off"></center>
+  
+  <center><button type="button" onclick="alert('Button clicked!')">Click Me</button></center>
+
+<br>
+<br>
+<br>
+<br>
+
+<form action="/submit" method="POST">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+  
+
+<p> Here are your basis for the sizes of wearable products </p>
+  
+  <table border="1">
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Height</th>
+      <th>Weight</th>
+    </tr>
+    <tr>
+      <td>Marvin</td>
+      <td>21</td>
+      <td>5'2</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>Zynee</td>
+      <td>21</td>
+      <td>5'1</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td>Kassim</td>
+      <td>21</td>
+      <td>5'9</td>
+      <td>75</td>
+    </tr>
+  </table>
+
+
+
+
+<p><center> LISTEN TO MUSIC WHILE SHOPPING </center></P>
+  <center><audio controls>
+    <source src="C:\Users\user\Downloads\Akala Ko Ikaw Ay Akin - ( Luha by Aegis ) [ Song Parody Cover ].mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio></center>
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  <center><video controls width="400" height="300">
+    <source src="C:\Users\user\Downloads\videoplayback.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video></center>
+  
+  <select name="colors">
+    <option value="red">Red</option>
+    <option value="green">Green</option>
+    <option value="blue">Blue</option>
+  </select>
+  
+  <textarea rows="4" cols="50">Enter your message here</textarea>
+  
+  <ul>
+    <li>Oversized Tshirt by Kassim</li>
+<img src="C:\Users\user\Downloads\download (3).jpg" alt="KASSIM">
+
+<br>
+<br>
+<br>
+<br>
+
+    <li>Shorts by Zynee</li>
+<img src="C:\Users\user\Downloads\download (5).jpg" alt="ZYNEE">
+
+<br>
+<br>
+<br>
+<br>
+
+    <li>Barong by Marvin</li>
+<img src="C:\Users\user\Downloads\Pina_Organza_Barong_Tagalog_1081__33323.jpg" alt="ZYNEE">
+
+  </ul>
+<br>
+<br>
+<br>
+<br>
+
+<p> STEPS on How to order </p>
+
+ <ol>
+    <li>Step 1: Look for the message box.</li>
+    <li>Step 2: Comment the name of the item including the size.</li>
+    <li>Step 3: Click Submit!</li>
+</ol>
+  
+<br>
+<br>
+<br>
+<br>
+
+  <div id="container" class="main-container">
+    <center><p>THANK YOU FOR PURCHASING COME BACK AGAIN!</center></p>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
